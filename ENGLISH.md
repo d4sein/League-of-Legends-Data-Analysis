@@ -18,7 +18,7 @@ Also, the data were collected during the 10.9 patch.
 Underestimated, the first Rift Herald increases the win rate to 63%, and in cases where the team captures both Heralds, the chances of winning go up to 74%. Of course, that doesn't take into account how ahead they were, but it shows that it is an important objetive nonetheless.  
 
 #### Itemization
-Itemization is not only a way to increase your strengths, but also a counter action to weaken the enemy team. There's always a teammate to spam Morellonomicon when Vladimir gets a kill, and that's for a reason, the global win rate against Vlad is 50%, but when we get only matches where no anti-healing items have been built, it actually goes down to 24%, and it's worse for Nasus, with only 20% win rate.  
+Itemization is not only a way to increase your strengths, but also a counter action to weaken the enemy team. There's always a teammate to spam *Morellonomicon* when Vladimir gets a kill, and that's for a reason, the global win rate against Vlad is 50%, but when we get only matches where no anti-healing items have been built, it actually goes down to 24%, and it's worse for Nasus, with only 20% win rate.  
 
 This is only considering items tho, so keep in mind abilities like Katarina ultimate or *Ignite* will serve the purpose as well.  
 
