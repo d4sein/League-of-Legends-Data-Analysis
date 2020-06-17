@@ -47,7 +47,7 @@ Por exemplo, o Kayn tem uma taxa de vitória de 56% de *Conquistador* + *Cutelo 
 
 Outra **"build"** interessante que talvez surpreenda é Kha'Zix de *Conquistador* + *Cutelo Negro* em situações onde o time inimigo é composto por muitos lutadores ou tanques. Pra conseguir esse resultado eu filtrei jogos com três parâmetros: primeiro e mais óbvio, somente Conquistador como runa primária; segundo, somente jogos onde o *Cutelo Negro* foi feito, já que é um item essencial pra **build**; terceiro, o time inimigo deve ter ao menos dois campeões de uma lista, onde eu inclui champs como Jax, Darius, Garen, Aatrox, Hecarim, Kled, etc. Surpreendemente, Kha'Zix tem uma boa performance nesses casos, com uma taxa de vitória de 52%.  
 
-**build:**: conjunto de itens que juntos desempenham um papel específico.  
+**build:** conjunto de itens que juntos desempenham um papel específico.  
 
 Como últimas observações nesse tópico, podemos dar uma olhada no quão eficiente alguns **perks** são de modo geral, e se eles sinergizam bem com certos campeões.  
 
