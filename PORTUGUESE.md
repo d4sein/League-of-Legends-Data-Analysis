@@ -51,7 +51,7 @@ Outra **"build"** interessante que talvez surpreenda é Kha'Zix de *Conquistador
 
 Como últimas observações nesse tópico, podemos dar uma olhada no quão eficiente alguns **perks** são de modo geral, e se eles sinergizam bem com certos campeões.  
 
-*Caça Voraz* tem uma média de 2% de cura do dano inflingido, 0.5% acima dos status base, porém 7 vezes menor que o limite, de 14%. Melhora um pouco pra Elise e Kha'Zix, com 3% e 3.2%, respectivamente.  
+*Caça Voraz* tem uma média de 2% de cura do dano infligido, 0.5% acima dos status base, porém 7 vezes menor que o limite, de 14%. Melhora um pouco pra Elise e Kha'Zix, com 3% e 3.2%, respectivamente.  
 
 *Caminhar Sobre as Águas* é um dos **perks** favoritos dos **Junglers**, com 17.5% de tempo ativo pra essa rota, e 16% no geral. Definitivamente vale a pena dar uma olhada.  
 
