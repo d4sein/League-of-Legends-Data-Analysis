@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Others
+.ipynb_checkpoints/
+data/
+Untitled.ipynb
+
+# Virtual env
+env/
+
 # C extensions
 *.so
 
