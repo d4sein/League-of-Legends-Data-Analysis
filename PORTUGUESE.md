@@ -22,7 +22,7 @@ Também, os dados foram coletados durante o patch 10.9.
 Subestimado, o primeiro Arauto aumenta a taxa de vitória para 63%, e em casos onde o time captura ambos, as chances aumentam para 74%. Claro, não foi considerado o quão à frente eles estavam, mas mostra que é um objetivo importante, de qualquer forma.  
 
 #### Seleção de itens
-Seleção de itens, ou **"itemization"**, não é apenas uma maneira de aumentar suas forças, mas também um ataque pra enfraquecer o time inimigo. Sempre tem um aliado pra marcar Morellonomicon no chat quando o Vladimir pega uma **kill**, e isso tem um motivo, a taxa de vitória contra o Vlad é de 50%, mas quando pegamos apenas jogos onde nenhum item de corta-cura foi feito, ela cai pra 24%, e é ainda pior pro Nasus, com uma taxa de vitória de apenas 20%.  
+Seleção de itens, ou **"itemization"**, não é apenas uma maneira de aumentar suas forças, mas também um ataque pra enfraquecer o time inimigo. Sempre tem um aliado pra marcar *Morellonomicon* no chat quando o Vladimir pega uma **kill**, e isso tem um motivo, a taxa de vitória contra o Vlad é de 50%, mas quando pegamos apenas jogos onde nenhum item de corta-cura foi feito, ela cai pra 24%, e é ainda pior pro Nasus, com uma taxa de vitória de apenas 20%.  
 
 Isso considerando apenas os itens, então tenha em mente que habilidades como a **ultimate** da Katarina ou *Incendiar* também servem o mesmo propósito.  
 
