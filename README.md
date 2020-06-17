@@ -4,3 +4,5 @@ This project is, above all things, a way for me to keep in touch with the Data S
 
 Here is the English version: [ENGLISH](ENGLISH.md)  
 Here is the Portuguese version: [PORTUGUESE](PORTUGUESE.md)  
+
+Here is the dataset: [DATASET](https://www.kaggle.com/d4sein/league-of-legends-patch-109)  
