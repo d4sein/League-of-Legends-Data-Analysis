@@ -1,6 +1,6 @@
 ## Overview  
 
-The most noticeable aspect of League of Legends is its competetive nature. People want to get better and rank up, but it's not easy to find the right strategies; or to know which items are best against specific champions or compositions.  
+The most noticeable aspect of League of Legends is its competitive nature. People want to get better and rank up, but it's not easy to find the right strategies; or to know which items are best against specific champions or compositions.  
 
 In that regard, Data Analysis can help us understand the value of certain objetives, and how important it is to build counter items when against champions like Nasus and Vladimir.  
 
